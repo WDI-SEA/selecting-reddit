@@ -2,7 +2,7 @@
 
 We're going to practice some JavaScript based DOM manipulation and traversal in the browser.
 
-Go to [reddit](http://reddit.com) and open the JavaScript console (cmd + option + j). Then try to complete the following tasks.
+Go to [reddit](http://reddit.com) and open the JavaScript console (cmd + option + j). Then try to complete the following tasks. There will be no submission for this... it's just practice!
 
 ####getElementById
 
