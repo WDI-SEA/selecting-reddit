@@ -2,7 +2,7 @@
 
 We're going to practice some JavaScript based DOM manipulation and traversal in the browser.
 
-Go to [reddit](http://reddit.com) and open the JavaScript console (cmd + option + j). Then try to complete the following tasks. There will be no submission for this... it's just practice!
+Go to [reddit](http://reddit.com) and open the JavaScript console (cmd + option + j). Then try to complete the following tasks.
 
 ####getElementById
 
@@ -34,6 +34,10 @@ Use `querySelector` to:
 ####querySelectorAll
 
 Use `querySelectorAll` to change (re-number) the ranks of the posts so they start from zero instead of 1. (hint: you'll need to use a loop)
+
+###addEventListener
+
+Use `addEventListener` to add a 'click' event to the 'body' tag that changes the background color of the body. (hint: utilize the style property')
 
 ####Extra
 
