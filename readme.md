@@ -1,10 +1,10 @@
-#Selecting from Reddit's DOM
+# Selecting from Reddit's DOM
 
 We're going to practice some JavaScript based DOM manipulation and traversal in the browser.
 
 Go to [reddit](http://reddit.com) and open the JavaScript console (cmd + option + j). Then try to complete the following tasks.
 
-####getElementById
+#### getElementById
 
 Use `getElementById` to do the following:
 
@@ -12,17 +12,17 @@ Use `getElementById` to do the following:
 * find the element with the id `header-bottom-right` and change it's html to say "Hello **NAME**" (replace "NAME" with your name and make it bold)
 
 
-####getElementsByClassName
+#### getElementsByClassName
 
 Use `getElementsByClassName` to find every thumbnail and resize them to 20x20 pixels. (hint: you'll need to use a loop)
 
 
-####getElementsByTagName
+#### getElementsByTagName
 
 Use `getElementsByTagName` to add a red background to all links on the page.
 
 
-####querySelector
+#### querySelector
 
 Use `querySelector` to:
 
@@ -31,15 +31,15 @@ Use `querySelector` to:
   * use `.value`
 
 
-####querySelectorAll
+#### querySelectorAll
 
 Use `querySelectorAll` to change (re-number) the ranks of the posts so they start from zero instead of 1. (hint: you'll need to use a loop)
 
-###addEventListener
+### addEventListener
 
 Use `addEventListener` to add a 'click' event to the 'body' tag that changes the background color of the body. (hint: utilize the style property')
 
-####Extra
+#### Extra
 
 * Try the `getElementById`, `getElementByClassName`, and `getElementsByTagName` items with query selector.
 * Try the `querySelector` items using `getElement...`.
